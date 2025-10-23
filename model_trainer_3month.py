@@ -13,7 +13,7 @@ import numpy as np
 import pandas as pd
 
 # Import from original trainer
-from model_trainer import (
+from model_trainer_1month import (
     get_model_configs,
     handle_class_imbalance,
     prepare_features,
